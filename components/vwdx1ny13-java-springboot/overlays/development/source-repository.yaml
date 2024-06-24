@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: vwdx1ny13-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/vwdx1ny13-java-springboot
